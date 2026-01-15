@@ -327,3 +327,14 @@ git init --bare
 # Or
 git clone --bare
 ```
+
+
+
+# usage:
+to see the full hisrtory rename each git dir in each dir `hello` `cloned_hello` to .git
+
+
+
+
+
+
