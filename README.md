@@ -29,7 +29,7 @@ echo "Hello, $name"
 ```
 
 The first task is learn how to use `git staus` and `git add` and `git commit`
-```git
+```sh
 # to check the status:
 git status
 
