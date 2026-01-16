@@ -9,7 +9,7 @@ This project is designed to introduce us to the world of version control and col
 I get started by creating a directory called `work` and i created a subdrectory called `hello` and i created a file inside it called `hello.sh`
 
 
-```sh
+```bash
 # Creating the directories and initializing the git in hello dir and adding the hello.sh file
 mkdir work
 cd work
