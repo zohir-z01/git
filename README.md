@@ -284,8 +284,7 @@ To fetch the changes from the remote repo and show the logs including the remote
 git fetch --all
 
 # show complete logs including the remote commits
-git log --graph --all --oneli
-ne --decorate
+git log --graph --all --oneline --decorate
 ```
 
 To merge the remote `main` branch into the local `main` branch:
