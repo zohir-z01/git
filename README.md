@@ -78,7 +78,7 @@ git checkout HEAD~<n> #n= steps to go abck to it
 git checkout HEAD~1
 
 # to return to the latest version without using its commit hash:
-git checkotu -
+git checkotu main
 ```
 
 ## Tag:
