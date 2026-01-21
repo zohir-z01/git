@@ -111,10 +111,10 @@ git restore <changes>
 
 And if we already commited the changes=, then we can go back to the initial stat by using:
 ```sh
-# creating an undo commit
+# reverting change and creating an undo commit
 git revert HEAD
 
-# undo the commit
+# Undo the previous commit
 git reset --hard HEAD~1
 ```
 
