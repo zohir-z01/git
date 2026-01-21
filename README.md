@@ -193,7 +193,7 @@ git ls-tree HEAD:lib/
 
 - Dump hello.sh content:
 ```sh
-git git show HEAD:lib/hello.sh
+git show HEAD:lib/hello.sh
 ```
 
 ## Branching:
